@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-## App ideia from [https://github.com/florinpop17/app-ideas]
+## App idea from [https://github.com/florinpop17/app-ideas]
 
 # BINARY TO DECIMAL CONVERTER
 <img src='./src/assets/gif.gif'>
